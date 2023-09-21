@@ -3,17 +3,18 @@ sidebar_position: 1
 title: Welcome
 ---
 
-# Tutorial Intro
+# Welcome to omnect Device Management
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Security in an insecure world 
+Devices are subject to regular attacks, making good protection imperative. An essential part of this is keeping them regularly updated. However, this can be challenging, especially when it comes to maintaining operating systems and deploying software. omnect Device Management takes this work off your hands and provides you with a globally available infrastructure. You can therefore be sure that your devices are always up to date and optimally protected. .
 
-## Getting Started
+## Overview
 
 Get started by **creating a new site**.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-### What you'll need
+## First steps
 
 - [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
